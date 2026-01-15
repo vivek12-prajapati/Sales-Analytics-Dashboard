@@ -28,6 +28,3 @@ Clear interpretation of sales patterns and business metrics
 📌 Project Outcome
 
 The analysis provides actionable insights into sales behavior, customer preferences, and regional performance, enabling better strategic planning and performance evaluation.
-
----
-📁 [Download Project PDF](./sales_analytic_report_with_learning_outcome.pdf)
