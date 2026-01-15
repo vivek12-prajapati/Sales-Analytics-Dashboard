@@ -1,19 +1,33 @@
-# 📊 Sales Analytics Dashboard (Power BI)
+📊 Sales Analytics Dashboard (Python)
 
-This project presents an interactive Power BI dashboard for analyzing sales performance across regions, product categories, and payment modes.
+This project focuses on analyzing sales data using Python-based data analysis and visualization libraries to uncover trends, patterns, and business insights across regions, product categories, and payment modes.
 
-## 🧠 Learning Outcome
-Incorporated data analysis techniques, specializing in **time series analysis**, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation — driving business success.
+🧠 Learning Outcomes
 
-## 🛠️ Tools Used
-- Power BI  
-- Excel  
+Performed data cleaning and preprocessing using Pandas and NumPy
+Applied time series analysis to understand sales trends over time
+Built visual analytics to support data-driven decision making
+Strengthened skills in exploratory data analysis (EDA) and business insight generation
 
-## 📈 Key Features
-- Sales & Profit by Category and Region  
-- Payment Mode Analysis  
-- Time Series Forecasting (15 Days)  
-- Interactive Filtering and Drill-Down  
+🛠️ Tools & Technologies Used
+
+Python
+Pandas – data manipulation and analysis
+NumPy – numerical computations
+Matplotlib – data visualization
+Seaborn – statistical data visualization
+
+📈 Key Features
+
+Sales and Profit Analysis by Category and Region
+Payment Mode distribution analysis
+Time Series Trend Analysis for sales performance
+Insightful visualizations using charts and graphs
+Clear interpretation of sales patterns and business metrics
+
+📌 Project Outcome
+
+The analysis provides actionable insights into sales behavior, customer preferences, and regional performance, enabling better strategic planning and performance evaluation.
 
 ---
 📁 [Download Project PDF](./sales_analytic_report_with_learning_outcome.pdf)
